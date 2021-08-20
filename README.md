@@ -1,1 +1,29 @@
-Oee, sou Leandro Artilha
+### Olá me chamo Leandro Artilha!
+
+- 💻 Atualmente estou no segundo semestre de Análise e Desenvolvimento de Sistemas no IFSP;
+- 💼 Estou a procura de um estágio na área de tecnologia;
+- 📚 Ultimamente estou estudando MySQL e Python;
+- 💡 Posso colaborar com conhecimentos sólidos sobre JavaScript, C, HTML5 e CSS3.
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leandroartilha&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leandroartilha&layout=compact&langs_count=16&theme=radical)](https://github.com/leandroartilha/github-readme-stats)
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Le-Js" height="30" width="40" src="">
+
+</div>
+
+##
+
+<div>
+  <a href="https://www.instagram.com/leeandro_artilha/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/leandroartilha/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://github.com/leandroartilha" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+  <a href="mailto:leandro.s.artilha@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  
+  
+</div>
+
+
+
+
