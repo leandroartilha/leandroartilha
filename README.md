@@ -1,7 +1,7 @@
 ### Olá me chamo Leandro Artilha!
 
 - 💻 Atualmente estou no segundo semestre de Análise e Desenvolvimento de Sistemas no IFSP;
-- 💼 Estou a procura de um estágio na área de tecnologia;
+- 💼 Estou buscando de um estágio na área de tecnologia;
 - 📚 Ultimamente estou estudando MySQL e Python;
 - 💡 Posso colaborar com conhecimentos sólidos sobre JavaScript, C, HTML5 e CSS3.
 
