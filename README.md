@@ -1,9 +1,6 @@
 ### Olá me chamo Leandro Artilha!
 
-- 💻 Atualmente estou no segundo semestre de Análise e Desenvolvimento de Sistemas no IFSP;
-- 💼 Estou buscando de um estágio na área de tecnologia;
-- 📚 Ultimamente estou estudando MySQL e Python;
-- 💡 Posso colaborar com conhecimentos sólidos sobre JavaScript, C, HTML5 e CSS3.
+- 💻 Estudante de programação e tecnologia!
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leandroartilha&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leandroartilha&layout=compact&langs_count=16&theme=radical)](https://github.com/leandroartilha/github-readme-stats)
