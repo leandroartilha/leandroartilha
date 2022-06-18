@@ -1,6 +1,6 @@
 ### Olá me chamo Leandro Artilha!
 
-- 💻 Estudante de programação e tecnologia!
+- 💻 Programação | Front-End | Back-End | C# | Asp .Net Core | ReactJS
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leandroartilha&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leandroartilha&layout=compact&langs_count=16&theme=radical)](https://github.com/leandroartilha/github-readme-stats)
