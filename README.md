@@ -3,7 +3,7 @@
 - 💻 Programação | Front-End | Back-End | C# | Asp .Net Core | ReactJS
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leandroartilha&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leandroartilha&layout=compact&langs_count=16&theme=radical)](https://github.com/leandroartilha/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leandroartilha&layout=compact&langs_count=30&theme=radical)](https://github.com/leandroartilha/github-readme-stats)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Le-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
